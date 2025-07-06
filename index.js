@@ -6,8 +6,8 @@ import dotenv from 'dotenv';
 
 dotenv.config({ path: './.env' });
 
-const SHEET_ID = '1K2GbYGqV7mjGXt4SQX29S10dvENR9IrAUxkzZQLKSAc';
-const SHEET_NAME = 'Sheet1';
+const SHEET_ID = '1_kdzz44E2w4AV5Sr2i00XTpRtQ9jDlzdml8Bg5hOvnM';
+const SHEET_NAME = 'IG_ADS';
 
 const app = express();
 app.use(cors());
